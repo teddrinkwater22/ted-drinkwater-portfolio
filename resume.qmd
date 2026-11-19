@@ -1,89 +1,55 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Ted Drinkwater"
+subtitle: "Business Analytics · Sales Development"
+toc: false
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+[Connect on LinkedIn](https://www.linkedin.com/in/ted-drinkwater-jr)
 
+## Experience
 
-## Currently
+### Workday · Sales Development Representative Intern
 
-Standing on the shoulders of giants
+*Atlanta, GA · Summer 2026*
 
-### Specialized in
+- Met 100% of assigned daily performance metrics, made 2,000+ outbound calls, and booked three prospect meetings through multichannel outreach using LinkedIn Sales Navigator.
+- Helped develop an AI agent for early-career professionals with a team that placed third in Workday’s North America Intern Hackathon.
+- Shared call preparation and prospecting techniques with fellow interns who asked to join my call blocks.
+- Provided program leaders with feedback on how to improve the internship experience.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Fox Pest Control · Door-to-Door Sales Representative
 
+*Virginia and Kentucky · Summers 2024–2025*
 
-### Research interests
+- Sold 106 accounts in 2024 and 200 in 2025, an 89% year-over-year increase. Generated more than $220,000 in personal sales revenue across both seasons and cut the account cancellation rate by more than half.
+- Earned Top Rookie recognition in 2024 and averaged $682 per contract against a $600 team average.
+- Mentored 15 sales representatives on how to use their time more effectively in the field.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### BYU–Idaho Radio (KBYI) · On-Air Host & Producer
 
+*Rexburg, ID · 2021, 2023–2024*
+
+- Produced and hosted the station’s highest-rated morning show, managing content, scheduling, and live delivery for the 6–9 a.m. broadcast.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Brigham Young University–Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+*Rexburg, ID*
 
-- Sizar
+Bachelor of Science in Business Analytics · Expected December 2026
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Leadership & Service
 
-- Fellow
+### The Church of Jesus Christ of Latter-day Saints · Volunteer Representative
 
+*Scotland, Northern Ireland, and Ireland · 2021–2023*
 
+- Coordinated operations for 175 volunteers, including training, logistics, budgeting, travel, and volunteer welfare.
+- Set up a structured communication process to help teams coordinate across locations.
 
-## Awards
+## Skills & Interests
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Sales and tools** · Salesforce, LinkedIn Sales Navigator, multichannel prospecting, full-cycle sales, Microsoft Office, Google Workspace  
+**Communication** · Public speaking, live broadcasting, peer mentoring  
+**Interests** · Basketball, golf, travel
